@@ -1,21 +1,17 @@
 <div align="center">
 
-# 🎯 **Advanced Algorithms Guide**
-[![Stars](https://img.shields.io/github/stars/yourusername/algorithms?style=social)](https://github.com/yourusername/algorithms)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+# 🎯 **Advanced Algorithms Guide (VisualAlgoGuide)**
+[![Stars](https://img.shields.io/github/stars/AmirhosseinDehghanazar/VisualAlgoGuide?style=social)](https://github.com/AmirhosseinDehghanazar/VisualAlgoGuide)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Build Status](https://img.shields.io/github/workflow/status/yourusername/algorithms/CI)](https://github.com/yourusername/algorithms/actions)
-[![Issues](https://img.shields.io/github/issues/yourusername/algorithms)](https://github.com/yourusername/algorithms/issues)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/algorithms?color=green)](https://github.com/yourusername/algorithms/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/AmirhosseinDehghanazar/VisualAlgoGuide)](https://github.com/AmirhosseinDehghanazar/VisualAlgoGuide/issues)
+[![Contributors](https://img.shields.io/github/contributors/AmirhosseinDehghanazar/VisualAlgoGuide?color=green)](https://github.com/AmirhosseinDehghanazar/VisualAlgoGuide/graphs/contributors)
 
 ### A Beautiful Collection of Essential Algorithms with Interactive Visualizations
 
 [Getting Started](#getting-started) • 
 [Algorithms](#algorithms) • 
-[Contributing](#contributing) • 
-[License](#license)
 
-<img src="https://user-images.githubusercontent.com/your-image-url/banner.png" alt="Algorithms Banner" width="600px" style="border-radius: 12px; margin-top: 20px;"/>
+<img src="./banner.png" alt="Algorithms Banner"  style="border-radius: 12px; margin-top: 20px;"/>
 
 </div>
 
@@ -59,29 +55,11 @@ This repository contains a curated collection of the most important algorithms i
 
 ---
 
-## 🤝 **Contributing**
 
-We welcome contributions! If you'd like to improve this repository or add new algorithms, please read our [Contributing Guidelines](CONTRIBUTING.md).
 
----
 
-## 📜 **License**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center" style="margin-top: 20px; font-size: 18px;">
-  ### ⭐ **Star us on GitHub — It motivates us a lot!**
+<div align="center" style="font-size: 16px; margin-top: 40px;">
+ Authored by <strong>Amirhossein Dehghaniazar</strong>
 </div>
 
----
-
-### Custom Styling Changes:
-1. **Rounded Banner Image**: To give a polished and modern feel, I added rounded corners to the banner image.
-2. **Centered Tables**: The algorithm table is now more neatly centered, with space around the text to avoid crowding.
-3. **Styled Call-to-Action**: The "Star us on GitHub" message is now larger and more visually inviting at the bottom, with some margin to separate it from the content.
-4. **Typography Improvements**: Enhanced some of the text for better readability and presentation.
-5. **Section Dividers**: Added extra spacing between sections to keep the content clean and easy to follow.
-
-This updated design should give your repository a professional, customized feel without over-complicating the layout. You can easily adjust colors or margins to match your preferred style!

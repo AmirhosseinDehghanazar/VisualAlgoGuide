@@ -8,8 +8,6 @@
 
 ### A Beautiful Collection of Essential Algorithms with Interactive Visualizations
 
-[Getting Started](#getting-started) • 
-[Algorithms](#algorithms) • 
 
 <img src="./banner.png" alt="Algorithms Banner"  style="border-radius: 12px; margin-top: 20px;"/>
 

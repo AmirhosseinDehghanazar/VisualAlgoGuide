@@ -50,23 +50,7 @@ This repository contains a curated collection of the most important algorithms i
 - **Real-world Applications**: Practical examples and use cases
 - **Step-by-Step Guide**: Detailed explanations of how each algorithm works
 
-## 🤝 Contributing
 
-We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for details.
-
-<div align="center">
-
-[![Contributors](https://img.shields.io/github/contributors/yourusername/algorithms)](https://github.com/yourusername/algorithms/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/yourusername/algorithms)](https://github.com/yourusername/algorithms/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/algorithms)](https://github.com/yourusername/algorithms/pulls)
-
-</div>
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
   
